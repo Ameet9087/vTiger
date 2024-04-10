@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-07T11:30:00 IST" name="Suite" finished-at="2024-03-07T11:40:09 IST" duration-ms="609004">
+    <groups>
+    </groups>
+    <test started-at="2024-03-07T11:30:00 IST" name="Test" finished-at="2024-03-07T11:40:09 IST" duration-ms="609004">
+      <class name="BasicTestNG.ExecutionParallel">
+        <test-method signature="AjioTest()[pri:0, instance:BasicTestNG.ExecutionParallel@bd4dc25]" started-at="2024-03-07T11:30:00 IST" name="AjioTest" finished-at="2024-03-07T11:30:37 IST" duration-ms="36903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AjioTest -->
+        <test-method signature="FaccebookTest()[pri:0, instance:BasicTestNG.ExecutionParallel@bd4dc25]" started-at="2024-03-07T11:30:37 IST" name="FaccebookTest" finished-at="2024-03-07T11:31:11 IST" duration-ms="34174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FaccebookTest -->
+        <test-method signature="instagramTest()[pri:0, instance:BasicTestNG.ExecutionParallel@bd4dc25]" started-at="2024-03-07T11:31:11 IST" name="instagramTest" finished-at="2024-03-07T11:31:51 IST" duration-ms="40240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instagramTest -->
+        <test-method signature="mintraTest()[pri:0, instance:BasicTestNG.ExecutionParallel@bd4dc25]" started-at="2024-03-07T11:31:51 IST" name="mintraTest" finished-at="2024-03-07T11:34:00 IST" duration-ms="129175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mintraTest -->
+      </class> <!-- BasicTestNG.ExecutionParallel -->
+      <class name="BasicTestNG.ExecutionParallelClass">
+        <test-method signature="AjioTest()[pri:0, instance:BasicTestNG.ExecutionParallelClass@6283d8b8]" started-at="2024-03-07T11:34:00 IST" name="AjioTest" finished-at="2024-03-07T11:35:26 IST" duration-ms="85849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AjioTest -->
+        <test-method signature="FaccebookTest()[pri:0, instance:BasicTestNG.ExecutionParallelClass@6283d8b8]" started-at="2024-03-07T11:35:26 IST" name="FaccebookTest" finished-at="2024-03-07T11:40:09 IST" duration-ms="282354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FaccebookTest -->
+      </class> <!-- BasicTestNG.ExecutionParallelClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
